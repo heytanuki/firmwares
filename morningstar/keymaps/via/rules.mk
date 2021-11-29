@@ -1,4 +1,4 @@
-BOOTLOADER = atmel-dfu
+BOOTLOADER = caterina
 MCU = atmega32u4
 
 MOUSEKEY_ENABLE = yes
